@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "408389024668",
+    "project_id": "panda-project-9587d",
+    "storage_bucket": "panda-project-9587d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408389024668:android:824a248748faa63a2ba659",
+        "android_client_info": {
+          "package_name": "com.madezainul.riders_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408389024668-1crqpo8m7rk3kfon4hn41ep56m8l5d2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzwdoNpk7nn9bR4K0_sGXOmnI3b4SycVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408389024668-1crqpo8m7rk3kfon4hn41ep56m8l5d2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408389024668:android:ff458aa587d4f33e2ba659",
+        "android_client_info": {
+          "package_name": "com.madezainul.seller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408389024668-1crqpo8m7rk3kfon4hn41ep56m8l5d2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzwdoNpk7nn9bR4K0_sGXOmnI3b4SycVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408389024668-1crqpo8m7rk3kfon4hn41ep56m8l5d2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
